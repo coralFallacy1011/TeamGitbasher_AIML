@@ -1,46 +1,13 @@
-# Getting Started with Create React App
+# Job Recommendation System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Booster Point 1
 
-## Available Scripts
+We have collected job data from various websites such as LinkedIn, Carreers360, Indeed, etc with the help of various web tools. This can be seen in the ```Company Apply URL``` field of the database, which contains links to various websites where the job has been posted.
 
-In the project directory, you can run:
+## Booster Point 2
 
-### `npm start`
+We have also found out the the user's strenghts by matching his skills to the ones required in the job, and have also implemented user weaknesses ona a per job basis as well as the user's skill set on a whole. This can be seen in the last 2 columns of the output which displays the job description wise strengths and weaknesses. The weaknesses and room for improvement is also displayed in the skills upskilling section of the website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Booster Point 3
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+We have deploye our job recommendation system on the Streamlit cloud community and can be accessed by clicking [here] (https://job-mil-jaye-simsim.streamlit.app/")
