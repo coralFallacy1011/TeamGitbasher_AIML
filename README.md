@@ -10,4 +10,4 @@ We have also found out the the user's strenghts by matching his skills to the on
 
 ## Booster Point 3
 
-We have deployed our job recommendation system on the Streamlit cloud community and can be accessed by clicking [here](https://job-mil-jaye-simsim.streamlit.app/")
+We have deployed our job recommendation system on the Streamlit cloud community and can be accessed by clicking [here](https://job-mil-jaye-simsim.streamlit.app")
